@@ -1,0 +1,151 @@
+/* css stylesheet*/
+
+.ban_border{
+	border-top:2px solid #000;
+	border-bottom:2px solid #000;
+}
+.saatchi_text{
+	font-size:40px;
+	font-weight:bold;
+	font-family:Calibre Light;
+}
+
+.whats_on{
+	font-size:80px;
+	font-weight:500;
+	font-family:Outside;
+}
+.september_roundup{
+	font-size:22px;
+	font-weight:600;
+	text-align:center;
+	font-family:Calibre Light;
+}
+.simple_text{
+	font-size:1.0625rem;
+	font-family:Calibre Light;
+}
+.last_chan{
+	font-weight:bold;
+	font-size:24px;
+	font-family:Calibre Medium;
+	line-height:0.9em;
+}
+.first_sec{
+	background-color:#dbff14;
+	margin-bottom:20px;
+}
+.first_img{
+	padding:30px 30px 30px 40px;
+}
+
+.sec_img{
+	padding:30px 30px 30px 40px;
+}
+
+.n_upcoming{
+	font-weight:bold;
+	font-size:24px;	
+	line-height:0.9em;
+	font-family:Calibre Medium;
+}
+.small_txt{
+	font-size:16px;
+}
+.txt_1{
+	font-size:20px;
+	font-weight:bold;
+	font-family:Calibre Light;
+}
+.txt_2{
+	font-size:17px;
+	font-family:Calibre Medium;
+}
+.txt_3{
+	font-size:15px;
+	font-family:Calibre Light;
+}
+.txt_4{
+	font-size:12px;
+	font-family:Calibre Light;
+}
+/*css for second part content*/
+
+.txt_5{
+	font-size:20px;
+	font-weight:bold;
+	font-family:Calibre Light;
+}
+.gap_in{
+	padding-top:15px;
+	padding-left:20px;
+}
+.footer_items{
+	text-align:center;
+	font-weight:600;
+	font-size:18px;
+	font-family:Calibre Light;
+	line-height:0.9em;
+}
+.footer_unsubs{
+	text-align:center;
+	font-family:Calibre Light;
+	line-height:0.9em;
+}
+.link_text{
+	color:#000;
+}
+
+.lines_height{
+	line-height:1.0em;
+}
+
+.lines_height1{
+	line-height:1.3em;
+}
+.lines_height2{
+	line-height:0.9em;
+}
+.lines_height3{
+	line-height:1.0em;
+}
+.bcom_Member{
+	text-align:center;
+	font-family:Calibre Light;
+}
+.saatchi_store_txt{
+	
+	line-height:1.2em;
+}
+
+/*Media queries*/
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 650px) {
+	.content_third{
+		text-align:center;
+	}
+	.whats_on{
+	font-size:50px;
+	font-weight:500;
+	font-family:Outside;
+}
+.first_img{
+	padding:30px 30px 10px 40px;
+}
+
+.sec_img{
+	padding:30px 30px 10px 40px;
+}
+
+
+}
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	
+}
+
+
